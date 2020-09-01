@@ -1,0 +1,59 @@
+server:
+  # 资源压缩传输
+  compression:
+    enabled: true
+    min-response-size: 1024
+    mime-types:
+      - text/html
+      - text/xml
+      - text/plain
+      - text/css
+      - text/javascript
+      - application/javascript
+      - application/json
+      - application/xml
+      - image/gif
+      - image/jpeg
+      - image/png
+spring:
+  # 文件上传大小限制
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+  # 数据源
+  datasource:
+    url: jdbc:mysql://localhost:8090/file?characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: 123
+    hikari:
+      connection-init-sql: select 1
+      connection-test-query: select 1
+      connection-timeout: 30000
+      minimum-idle: 4
+      maximum-pool-size: 16
+      max-lifetime: 600000
+      idle-timeout: 300000
+
+# dao
+mybatis-plus:
+  global-config:
+    db-config:
+      logic-delete-field: deleted
+      logic-not-delete-value: 0
+      logic-delete-value: 1
+  configuration:
+    log-impl: org.apache.ibatis.logging.slf4j.Slf4jImpl
+  type-handlers-package: priv.wmc.file.config.mybatis.handler
+
+# 自定义配置
+domain: http://127.0.0.1:8080
+swagger-enable: true
+api-version: v1.0
+upload:
+  # 支持上传的图片类型
+  pic-support: jpg, png, jpeg
+  # 支持上传、导入的表格类型
+  excel-support: xls, xlsx
+  # 支持上传的其他文件类型
+  other-support: txt, json, doc, docx, pdf
