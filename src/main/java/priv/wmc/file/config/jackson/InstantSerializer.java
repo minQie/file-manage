@@ -12,7 +12,7 @@ import priv.wmc.file.util.DateUtils;
 /**
  * Instant序列化
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2020-01-15 23:28:04
  * @see DateUtils
  */

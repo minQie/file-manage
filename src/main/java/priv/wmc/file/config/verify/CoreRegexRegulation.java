@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 /**
  * 校验规则定义
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2019/11/5 17:27
  */
 public final class CoreRegexRegulation {

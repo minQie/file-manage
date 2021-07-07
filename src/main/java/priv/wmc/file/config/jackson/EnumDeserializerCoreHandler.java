@@ -18,7 +18,7 @@ import priv.wmc.file.config.exception.ApiException;
 /**
  * 枚举反序列化核心处理器
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2020-01-16 09:24:39
  */
 @Slf4j

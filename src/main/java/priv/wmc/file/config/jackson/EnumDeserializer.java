@@ -29,7 +29,7 @@ import priv.wmc.file.util.RegexUtils;
  * @see EnumDefine#getDefault()
  * @see EnumDeserializerCoreHandler#getAppropriateDeserializeField(Class, String)
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2020-01-16 09:21:14
  */
 @Slf4j

@@ -29,7 +29,7 @@ import springfox.documentation.annotations.ApiIgnore;
 /**
  * 文件上传、下载
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2019/11/14 14:51
  */
 @Api(tags = "文件模块")

@@ -5,7 +5,7 @@ import org.springframework.core.convert.converter.ConverterFactory;
 import priv.wmc.file.base.enums.EnumDefine;
 
 /**
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2020-01-21 23:05:38
  */
 public class EnumConverterFactory implements ConverterFactory<String, EnumDefine> {

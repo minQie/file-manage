@@ -6,7 +6,7 @@ import java.io.StringWriter;
 /**
  * 获取封装异常的相关信息
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2019/12/10 11:54
  */
 public final class ExceptionStackTraceUtils {

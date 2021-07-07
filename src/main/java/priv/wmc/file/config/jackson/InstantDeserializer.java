@@ -16,7 +16,7 @@ import priv.wmc.file.constant.StaticConstants;
 /**
  * Instant Deserializer（只支持默认的格式：DateUtils.COMMON_DATE_FORMAT（yyyy-MM-dd HH:mm:ss））
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2020-01-16 11:44:41
  */
 @Slf4j

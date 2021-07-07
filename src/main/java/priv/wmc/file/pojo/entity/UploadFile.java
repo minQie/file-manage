@@ -9,7 +9,7 @@ import priv.wmc.file.base.entity.BaseEntity;
 /**
  * 文件上传实体
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2019/11/18 10:16
  */
 @Setter

@@ -7,7 +7,7 @@ import java.time.format.DateTimeParseException;
 import org.springframework.core.convert.converter.Converter;
 
 /**
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2020-01-21 23:07:37
  */
 public class InstantConverter implements Converter<String, Instant> {

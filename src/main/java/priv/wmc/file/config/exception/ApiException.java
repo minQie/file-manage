@@ -3,7 +3,7 @@ package priv.wmc.file.config.exception;
 import lombok.Getter;
 
 /**
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2019/11/18 9:43
  */
 @Getter

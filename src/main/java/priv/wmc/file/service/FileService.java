@@ -23,7 +23,7 @@ import priv.wmc.file.util.UploadFileUploadUtils;
 import priv.wmc.file.util.UploadFilenameUtils;
 
 /**
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2019/11/17 21:04
  */
 @Service

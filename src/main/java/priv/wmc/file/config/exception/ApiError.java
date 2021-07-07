@@ -3,7 +3,7 @@ package priv.wmc.file.config.exception;
 /**
  * 错误相关的枚举都要实现的接口
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2020-01-15 23:24:22
  */
 public interface ApiError {

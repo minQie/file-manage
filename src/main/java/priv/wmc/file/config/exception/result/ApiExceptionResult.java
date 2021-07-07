@@ -6,7 +6,7 @@ import priv.wmc.file.config.exception.ApiError;
 /**
  * 错误信息字段：message、extraMessage
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2019/11/18 9:32
  */
 @Getter

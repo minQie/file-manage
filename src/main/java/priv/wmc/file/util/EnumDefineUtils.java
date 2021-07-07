@@ -12,7 +12,7 @@ import springfox.documentation.service.AllowableListValues;
 import springfox.documentation.service.AllowableValues;
 
 /**
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2020-04-28 21:24:43
  */
 public final class EnumDefineUtils {

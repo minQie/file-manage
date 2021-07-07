@@ -17,7 +17,7 @@ import priv.wmc.file.pojo.enums.UploadFileTypeEnum;
 /**
  * 文件工具类
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2019年11月29日13:47:19
  */
 @Component

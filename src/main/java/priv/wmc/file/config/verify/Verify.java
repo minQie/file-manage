@@ -19,7 +19,7 @@ import priv.wmc.file.config.verify.validator.StringValidator;
  *
  * 封装校验类型、可指定请求方式进行校验
  *
- * @Author 王敏聪
+ * @author Wang Mincong
  * @Date 2019/11/6 11:43
  */
 @Constraint(validatedBy = StringValidator.class)

@@ -8,7 +8,7 @@ import priv.wmc.file.config.exception.ApiErrorCodes;
 /**
  * 校验类型
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2020-01-15 23:04:16
  */
 @Getter

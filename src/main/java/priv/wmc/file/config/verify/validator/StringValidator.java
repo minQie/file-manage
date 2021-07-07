@@ -9,7 +9,7 @@ import priv.wmc.file.config.verify.VerifyType;
 /**
  * "Verify" annotation core validator with custom regex
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2020-01-15 23:00:39
  *
  * @see CoreRegexRegulation

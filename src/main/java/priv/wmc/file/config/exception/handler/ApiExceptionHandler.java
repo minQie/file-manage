@@ -18,7 +18,7 @@ import priv.wmc.file.config.exception.result.ApiExceptionResult;
  *
  * <p>不需要在类上添加 @ResponseBody ，详情见{@link RestControllerAdvice}的注释
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2019/11/18 9:53
  */
 @ResponseStatus(HttpStatus.BAD_REQUEST)

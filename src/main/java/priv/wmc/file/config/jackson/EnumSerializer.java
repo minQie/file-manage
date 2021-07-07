@@ -17,7 +17,7 @@ import priv.wmc.file.constant.StaticConstants;
  * 问题1：是枚举就序列化
  * 问题2：泛型类型为“Enum<? extends EnumDefine>”，项目启动时会被莫名执行一次（EnumDefine就不会）
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2020/1/15 22:24
  */
 public class EnumSerializer extends JsonSerializer<EnumDefine> {

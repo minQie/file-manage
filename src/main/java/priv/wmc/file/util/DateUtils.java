@@ -7,7 +7,7 @@ import priv.wmc.file.constant.StaticConstants;
 /**
  * 时间工具类
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2019/11/15 11:46
  */
 public final class DateUtils {

@@ -13,7 +13,7 @@ import priv.wmc.file.util.HashCollectionUtils;
 /**
  * 自定义List校验器
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2019/11/6 14:53
  */
 public class ListValidator implements ConstraintValidator<NoRepeat, List<?>> {

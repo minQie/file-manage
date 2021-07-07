@@ -14,7 +14,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 /**
  * Swagger2 核心配置
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2019年11月20日14:21:05
  */
 @Configuration

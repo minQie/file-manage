@@ -31,7 +31,7 @@ import springfox.documentation.spi.schema.contexts.ModelPropertyContext;
  * <li>jsr303非空支持</li>
  * </ol>
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2020-1-3 14:50:58
  */
 @Slf4j

@@ -12,7 +12,7 @@ import priv.wmc.file.config.exception.ApiException;
  *
  * 注意：当前接口只能修饰枚举，否则反序列化流程无意义
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2020-01-16 00:15:33
  */
 public interface EnumDefine {

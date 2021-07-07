@@ -17,7 +17,7 @@ import priv.wmc.file.config.verify.validator.ListValidator;
 /**
  * 修饰请求参数类型为List，对包含的元素是否有重复进行校验
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2019/11/6 11:43
  */
 @Constraint(validatedBy = ListValidator.class)

@@ -5,7 +5,7 @@ import lombok.Getter;
 /**
  * 基础异常类
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2019/11/18 9:17
  */
 @Getter

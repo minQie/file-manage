@@ -6,7 +6,7 @@ import lombok.Getter;
 /**
  * 定义项目中实际的错误类型
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2019/11/18 10:48
  */
 @Getter

@@ -3,7 +3,7 @@ package priv.wmc.file.constant;
 /**
  * 全局静态常量配置
  *
- * @author 王敏聪
+ * @author Wang Mincong
  * @date 2020-01-16 00:11:09
  */
 public final class StaticConstants {
